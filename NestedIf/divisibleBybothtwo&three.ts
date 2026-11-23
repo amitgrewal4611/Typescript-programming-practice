@@ -9,4 +9,4 @@ function divisible(value1 : number){
     
     }
 
-divisible(4);
+divisible(40);

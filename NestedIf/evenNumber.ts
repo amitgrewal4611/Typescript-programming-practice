@@ -11,4 +11,4 @@ function even(value1 :number){
      else {console.log("invalid number")}
 
 }
-even(70);
+even(45);

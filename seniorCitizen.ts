@@ -8,4 +8,4 @@ function senior(value1 :number){
     else {console.log(" invalid data")}
 
 }
-senior(65);
+senior(45);
