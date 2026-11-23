@@ -8,7 +8,9 @@ function even(value1 :number){
         else {console.log ("is an odd number")}
         
     }
-     else {console.log("invalid number")}
+     else {
+        console.log("invalid number")
+    }
 
 }
 even(45);
